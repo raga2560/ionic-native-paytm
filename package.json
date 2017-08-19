@@ -1,0 +1,22 @@
+{
+  "name": "@viraj77/paytm",
+  "version": "1.0.1",
+  "description": "Ionic native plugin for ionic 2 and ionic 3",
+  "main": "index.js",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.6.0 || >=4.0.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "paytm-native"
+  ],
+  "author": "Anurag Dwivedi",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.6.3"
+  }
+}
