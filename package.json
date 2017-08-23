@@ -1,22 +1,21 @@
 {
   "name": "@viraj77/paytm",
-  "version": "1.0.1",
-  "description": "Ionic native plugin for ionic 2 and ionic 3",
-  "main": "index.js",
+  "version": "4.1.1",
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "keywords": [
+    "ionic-native", "ionic-paytm", "ionic 2 paytm", "ionic native paytm", "paytm-native"
+  ],
+  "author": "ionic",
+  "license": "MIT",
   "peerDependencies": {
     "@ionic-native/core": "^3.6.0 || >=4.0.0",
     "@angular/core": "*",
     "rxjs": "^5.0.1"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "paytm-native"
-  ],
-  "author": "Anurag Dwivedi",
-  "license": "ISC",
-  "dependencies": {
-    "connect": "^3.6.3"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VIRAJ77DWIVEDI/ionic-native-paytm.git"
   }
 }
